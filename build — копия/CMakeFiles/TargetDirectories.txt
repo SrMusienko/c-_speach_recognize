@@ -1,5 +1,0 @@
-C:/llama/c++/build/CMakeFiles/pro.dir
-C:/llama/c++/build/CMakeFiles/edit_cache.dir
-C:/llama/c++/build/CMakeFiles/rebuild_cache.dir
-C:/llama/c++/build/CMakeFiles/pro_autogen_timestamp_deps.dir
-C:/llama/c++/build/CMakeFiles/pro_autogen.dir
