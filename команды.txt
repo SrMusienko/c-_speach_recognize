@@ -1,0 +1,7 @@
+ cmake -S . -B build -G "MinGW Makefiles" -DCMAKE_PREFIX_PATH="C:\Qt\6.8.2\mingw_64\lib\cmake"
+ cmake -S . -B build -G "MinGW Makefiles"
+ cmake --build build
+----------------
+ $env:CMAKE_PREFIX_PATH = "C:\Qt\6.8.2\mingw_64\lib\cmake"
+ $env:QTDIR = "C:\Qt\6.8.2\mingw_64"
+типа временно!!!

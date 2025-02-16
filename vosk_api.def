@@ -1,0 +1,9 @@
+LIBRARY vosk
+EXPORTS
+    vosk_model_new
+    vosk_model_free
+    vosk_recognizer_new
+    vosk_recognizer_free
+    vosk_recognizer_accept_waveform
+    vosk_recognizer_result
+    vosk_recognizer_partial_result
